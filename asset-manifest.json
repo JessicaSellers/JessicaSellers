@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/JessicaSellers/static/css/main.c8d56fcb.chunk.css",
+    "main.js": "/JessicaSellers/static/js/main.7570d196.chunk.js",
+    "main.js.map": "/JessicaSellers/static/js/main.7570d196.chunk.js.map",
+    "runtime-main.js": "/JessicaSellers/static/js/runtime-main.89431da7.js",
+    "runtime-main.js.map": "/JessicaSellers/static/js/runtime-main.89431da7.js.map",
+    "static/css/2.0624914a.chunk.css": "/JessicaSellers/static/css/2.0624914a.chunk.css",
+    "static/js/2.37cef1bd.chunk.js": "/JessicaSellers/static/js/2.37cef1bd.chunk.js",
+    "static/js/2.37cef1bd.chunk.js.map": "/JessicaSellers/static/js/2.37cef1bd.chunk.js.map",
+    "index.html": "/JessicaSellers/index.html",
+    "precache-manifest.bf7880a5cca058cbba10652f2a210a0f.js": "/JessicaSellers/precache-manifest.bf7880a5cca058cbba10652f2a210a0f.js",
+    "service-worker.js": "/JessicaSellers/service-worker.js",
+    "static/css/2.0624914a.chunk.css.map": "/JessicaSellers/static/css/2.0624914a.chunk.css.map",
+    "static/css/main.c8d56fcb.chunk.css.map": "/JessicaSellers/static/css/main.c8d56fcb.chunk.css.map",
+    "static/media/App.css": "/JessicaSellers/static/media/animated-background.b2b91900.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.89431da7.js",
+    "static/css/2.0624914a.chunk.css",
+    "static/js/2.37cef1bd.chunk.js",
+    "static/css/main.c8d56fcb.chunk.css",
+    "static/js/main.7570d196.chunk.js"
+  ]
+}
