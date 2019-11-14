@@ -118,7 +118,7 @@ function Home() {
               </p>
             </Col>
             <Col md="5" xs="12">
-              <img src="jessica-sellers.png" alt="Jessica Sellers" className="about-photo" height="450" />
+              <img src="jessica-sellers.png" alt="Jessica Sellers" className="about-photo" height="400" />
             </Col>
           </Row>
         </div>
