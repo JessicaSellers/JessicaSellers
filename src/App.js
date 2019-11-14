@@ -6,7 +6,7 @@ import Welcome from './projects/App-welcome';
 import Saved from './projects/Saved';
 import Techbot from './projects/Techbot';
 import AutismAid from './projects/Autism-aid';
-import Taproom from './projects/Taproom'
+import Taproom from './projects/Taproom';
 import { HashRouter, Route } from "react-router-dom";
 
 
