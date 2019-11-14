@@ -4,13 +4,13 @@ import { Button, Col, Row } from 'reactstrap';
 
 function Work() {
   return (
-    <div id="#Work">
+    <div id="#Work" className="hide-overflow">
       <Col xs={{offset: 1}}>
         <h1 className="subtitle">My Work</h1>
         <div className="underline"></div>
       </Col>
       <Row>
-        <Col md={{ size: 3, offset: 1 }} xs="12" className="no-column-padding">
+        <Col md={{ size: 3, offset: 1 }} xs="12" className="column-padding">
           <div class="hovereffect">
             <img src="contacts.png" alt="" />
             <div class="overlay">
@@ -23,7 +23,7 @@ function Work() {
             </div>
           </div>
         </Col>
-        <Col md="auto" xs="12" className="no-column-padding">
+        <Col md="auto" xs="12" className="column-padding">
           <div class="hovereffect">
             <img src="welcome.png" alt="" />
             <div class="overlay">
@@ -36,7 +36,7 @@ function Work() {
             </div>
           </div>
         </Col>
-        <Col md="auto" xs="12" className="no-column-padding">
+        <Col md="auto" xs="12" className="column-padding">
           <div class="hovereffect">
             <img src="saved.png" alt="" />
             <div class="overlay">
@@ -51,7 +51,7 @@ function Work() {
         </Col>
       </Row>
       <Row>
-        <Col md={{ size: 3, offset: 1 }} xs="12" className="no-column-padding">
+        <Col md={{ size: 3, offset: 1 }} xs="12">
           <div class="hovereffect">
             <img src="buroak-taproom.png" alt="" />
             <div class="overlay">
@@ -64,7 +64,7 @@ function Work() {
             </div>
           </div>
         </Col>
-        <Col md="3" xs="12" className="no-column-padding">
+        <Col md="3" xs="12">
           <div class="hovereffect">
             <img src="autism-aid.png" alt="" />
             <div class="overlay">
@@ -77,7 +77,7 @@ function Work() {
             </div>
           </div>
         </Col>
-        <Col md="4" xs="12" className="no-column-padding">
+        <Col md="4" xs="12">
           <div class="hovereffect">
             <img src="techbot.png" alt="" />
             <div class="overlay">

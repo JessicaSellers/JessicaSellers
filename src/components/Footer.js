@@ -11,8 +11,7 @@ import { Col, Row } from 'reactstrap';
           </svg>
         </Row>
         <Row className="footer"> 
-          <Col xs="1"></Col>
-          <Col xs="5">
+          <Col xs="6">
           <br />
             Contact Me - jessicasellers365@gmail.com
           </Col>

@@ -14,6 +14,7 @@
   justify-content: center;
   font-size: calc(10px + 2vmin);
   color: #465184;
+  overflow: hidden;
 }
 
 .App-link {
@@ -39,6 +40,10 @@
   color: #465184;
 }
 
+.about-sub {
+  margin-top: 50px;
+}
+
 .underline {
   border-bottom: 1px solid #465184;
   width: 132px;
@@ -60,6 +65,7 @@
   width: 100%;
   z-index: 1;
   background-color: #fefefa;
+  overflow: hidden;
 }
 
 
@@ -147,14 +153,14 @@
   transform: translate3d(0,0,0);
 }
 
-.no-column-padding {
+.column-padding {
   padding-top: 40px;
-  padding-bottom: 40px;
+  padding-bottom: 80px;
 }
 
 .footer {
   background-color: #d3eee1;
-  width: 100%;
+  width: 105%;
   height: 75px;
 }
 .icons {
@@ -174,14 +180,19 @@
 }
 
 .footer-line {
-  width: 100%;
+  width: 105%;
   fill: #d3eee1;
 }
 
 .footer-margin {
   margin-top: 50px;
+  overflow: hidden;
 }
 
 .subhead {
   padding-bottom: 10px;
+}
+
+.hide-overflow {
+  overflow: hidden;
 }
