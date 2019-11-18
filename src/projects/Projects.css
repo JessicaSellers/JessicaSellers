@@ -1,3 +1,25 @@
-.dog {
-  color: blue;
+.Project {
+  background-color: #fefefa;
+}
+
+.main-objective {
+  font-size: 20px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.detail-head {
+  font-weight: 700;
+  background-color: #d3eee0;
+  padding: 0px 5px 0px 3px;
+}
+
+.project-subhead {
+  font-size: 22px;
+  font-variant: small-caps;
+  font-weight: 150;
+}
+
+.more-projects {
+  max-height: 230px;
 }

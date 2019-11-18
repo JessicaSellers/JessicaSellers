@@ -17,7 +17,7 @@ function Work() {
               <h2>Add Contacts Feature</h2>
               <h5></h5>
               <p>
-                Created a "native-seeming" contacts feature on a non-native mobile app. It allows users to invite and find friends using their phone contacts.
+                Created a "native" contacts feature on a non-native mobile app that allows users to invite and find friends using their phone contacts.
               </p>
               <Button size="sm" className="learn-btn" href="/#/contacts">Learn More</Button>
             </div>
