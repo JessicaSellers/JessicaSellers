@@ -31,7 +31,7 @@ function AutismAid() {
                 </Col>
             </Row>
             <Col xs={{offset: 1}}>
-                <i class="fas fa-flask fa-xs"></i> <span className="project-subhead">Research</span>
+                {/*<i class="fas fa-flask fa-xs"></i> <span className="project-subhead">Research</span>*/}
                 <div><i class="fas fa-code-branch"></i> <span className="project-subhead">Approach</span></div>
                 <div><i class="fas fa-cloud-showers-heavy fa-xs"></i> <span className="project-subhead">Challenges</span></div>
                 <div><i class="fas fa-check-circle fa-xs"></i> <span className="project-subhead">Outcome</span></div>
