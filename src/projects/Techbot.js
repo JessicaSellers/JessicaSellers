@@ -31,11 +31,29 @@ function Techbot() {
                 </Col>
             </Row>
             <Col xs={{offset: 1}}>
-                {/*<i class="fas fa-flask fa-xs"></i> <span className="project-subhead">Research</span>*/}
+                {/*<i class="fas fa-flask fa-xs"></i> <span className="project-subhead">Research</span>
                 <div><i class="fas fa-code-branch"></i> <span className="project-subhead">Approach</span></div>
-                <div><i class="fas fa-cloud-showers-heavy fa-xs"></i> <span className="project-subhead">Challenges</span></div>
+                <div><i class="fas fa-cloud-showers-heavy fa-xs"></i> <span className="project-subhead">Challenges</span></div>*/}
                 <div><i class="fas fa-check-circle fa-xs"></i> <span className="project-subhead">Outcome</span></div>
+                Go to the live site <a target="_blank" rel="noopener noreferrer" href="https://mu-tech-support.firebaseapp.com/view_homepage.html">here.</a>
+                <br />
+                <br />
             </Col>
+            <Row>
+            <Col md={{offset: 1, size:7}} xs={{offset:1, size:10}}>
+            Website Design
+                <img src="techbot-project.png" alt="Taproom" width="100%" />
+            </Col>
+            <Col md={{offset:0, size:3}}xs={{offset:1, size:10}}>
+            Chatbot
+                <iframe
+                allow="microphone;"
+                width="100%"
+                height="430"
+                src="https://console.dialogflow.com/api-client/demo/embedded/acaa20f9-bfb1-48b3-a056-74177632020b">
+                </iframe>
+            </Col>
+            </Row>
             <br />
             <br />
             <OtherWork />

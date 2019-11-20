@@ -30,11 +30,15 @@ function Taproom() {
                     <p><span className="detail-head">Tools:</span> WordPress, CSS, HTML, Photoshop</p>
                 </Col>
             </Row>
-            <Col xs={{offset: 1}}>
-                {/*<i class="fas fa-flask fa-xs"></i> <span className="project-subhead">Research</span>*/}
+            <Col xs={{offset: 1, size: 10}}>
+                {/*<i class="fas fa-flask fa-xs"></i> <span className="project-subhead">Research</span>
                 <div><i class="fas fa-code-branch"></i> <span className="project-subhead">Approach</span></div>
-                <div><i class="fas fa-cloud-showers-heavy fa-xs"></i> <span className="project-subhead">Challenges</span></div>
+                <div><i class="fas fa-cloud-showers-heavy fa-xs"></i> <span className="project-subhead">Challenges</span></div>*/}
                 <div><i class="fas fa-check-circle fa-xs"></i> <span className="project-subhead">Outcome</span></div>
+                A live version of this page can be found on <a target="_blank" rel="noopener noreferrer" href="https://buroakbeer.com/taproom/">Bur Oak's website.</a>
+                <br />
+                <br />
+                <div className="center-image"><img src="taproom-project.png" alt="Taproom" width="50%" /></div>
             </Col>
             <br />
             <br />
